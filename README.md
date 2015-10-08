@@ -1,3 +1,6 @@
+# Source Files
+C.H.I.P. is designed using OrCAD! A free "lite" viewer is available at <a href="http://www.orcad.com/">www.orcad.com</a>
+
 # CHIP-Hardware
 ![CHIP](https://raw.githubusercontent.com/NextThingCo/CHIP-Hardware/master/ALPHA%20CHIP%20v0_21%20PINOUT.png)
 
