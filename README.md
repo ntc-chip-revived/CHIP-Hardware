@@ -6,7 +6,7 @@ C.H.I.P. is designed using OrCAD! A free "lite" viewer is available at <a href="
 
 #Composite Video and Audio Connector
 A ?” mini TRRS to RCA composite video output cable.
-![Composite Cable](https://raw.githubusercontent.com/NextThingCo/CHIP-Hardware/master/CompositeCable-TRStoRCA-PINOUT.png)
+![Composite Cable](https://raw.githubusercontent.com/NextThingCo/CHIP-Hardware/master/trrs_annotated.png)
 Tip: Left Audio (HPL)
 Ring 1: Right Audio (HPR)
 Ring 2: Ground 
