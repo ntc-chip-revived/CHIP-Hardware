@@ -1,12 +1,14 @@
-p# Source Files
+# Source Files
 C.H.I.P. is designed using OrCAD! A free "lite" viewer is available at <a href="http://www.orcad.com/">www.orcad.com</a>
 
 # CHIP-Hardware
+
 ALPHA C.H.I.P. = v0.21
+
 C.H.I.P. = v1.0
 
 #Composite Video and Audio Connector
-A ?” mini TRRS to RCA composite video output cable.
+A 3.5mm (1/8") "mini" TRRS to RCA composite video output cable.
 ![Composite Cable](https://raw.githubusercontent.com/NextThingCo/CHIP-Hardware/master/CHIP[v1_0]/trrs_annotated.png)
 
 #License
